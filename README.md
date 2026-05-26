@@ -18,4 +18,6 @@ Public fixture repository for local SFAB platform development.
 | `dev-8-onboarding-copy` | DEV-8 | merged |
 | `experiment/graphql-api` | — | closed |
 
+## Onboarding
+
 Install the **sfab-dev** GitHub App on this repo, then set `DEV_SEED_INSTALLATION_ID` in `apps/platform/.dev.seed.vars`.
